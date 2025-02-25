@@ -46,3 +46,7 @@ By modifying these parameters, you can see how they affect the game’s difficul
 If you want to play this game, you can goto my website:
 
 [海星快乐屋](https://rockyrori.github.io/haixing/#/Ghangman)
+
+## 6. Video Presentation
+https://www.bilibili.com/video/BV13rPiexEL8/
+https://youtu.be/CIxFnksE01M
