@@ -42,3 +42,7 @@ These four parameters can be modified in the script to observe different effects
 
 By modifying these parameters, you can see how they affect the game’s difficulty, learning behavior, and responsiveness.
 
+## 5. User Play
+If you want to play this game, you can goto my website:
+
+[海星快乐屋](https://rockyrori.github.io/haixing/#/Ghangman)
