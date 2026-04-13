@@ -1,4 +1,7 @@
-# Self Defined Big File
+# Hangman
+
+# frontend
+**/node_modules/*
 
 # Mac builtin
 .DS_Store
@@ -9,7 +12,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*$py.class
+$py.class
 
 # C extensions
 *.so
@@ -18,7 +21,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -44,7 +46,7 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Unit test / coverage reports
+# Unit unitest / coverage reports
 htmlcov/
 .tox/
 .nox/

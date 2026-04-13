@@ -51,7 +51,7 @@ epsilon = 0.05
 word_list = ["brave", "grain", "spire"]
 max_rounds = 10
 game_frequency_millisecond = 200
-load_model = False
+load_model = True
 q_table_file = "q_table.pkl"
 # 固定的参数
 # fixed variables
