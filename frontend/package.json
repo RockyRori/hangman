@@ -1,0 +1,26 @@
+{
+  "name": "hangman-frontend",
+  "private": true,
+  "version": "0.2.8",
+  "type": "module",
+  "scripts": {
+    "dev": "npm run sync:qtable && vite",
+    "build": "npm run sync:qtable && tsc -b && vite build",
+    "lint": "eslint .",
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
+    "sync:qtable": "python scripts/sync_qtable.py"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.6.3",
+    "vite": "^6.2.0"
+  }
+}

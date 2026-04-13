@@ -2,6 +2,12 @@
 
 # frontend
 **/node_modules/*
+**/dist/
+**/*.tsbuildinfo
+frontend/public/q-table.json
+frontend/public/words.json
+frontend/vite.config.js
+frontend/vite.config.d.ts
 
 # Mac builtin
 .DS_Store
